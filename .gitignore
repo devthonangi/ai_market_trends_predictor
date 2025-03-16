@@ -1,0 +1,6 @@
+env/
+__pycache__/
+.DS_Store
+.idea/
+data/ # Ignore dataset files
+test.db # Ignore SQLite database
