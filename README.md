@@ -94,7 +94,7 @@ The system is designed with a modular architecture to ensure scalability and mai
 
 ---
 
-## 📡 **Backend API (FastAPI)**  
+## **Backend API (FastAPI)**  
 
 The backend exposes REST API endpoints for **data storage, retrieval, and prediction execution**.
 
@@ -106,7 +106,7 @@ The backend exposes REST API endpoints for **data storage, retrieval, and predic
 
 ---
 
-## 📊 **Frontend (Streamlit Dashboard)**  
+## **Frontend (Streamlit Dashboard)**  
 
 - **UI Components**:
   - **Button to Fetch Predictions** (Triggers API call)
